@@ -2,7 +2,8 @@
 
 Conexión y manipulación de bases de datos desde Python (MySQL, PostgreSQL): https://colab.research.google.com/drive/13sinzncAm_PXRmgoWrPoC44H4pjZik3B?usp=sharing
 
-Uso Avanzado de Pandas: Combinación de DataFrames, manipulación de índices, pivoteo y agrupación: 
+Uso Avanzado de Pandas: Combinación de DataFrames, manipulación de índices, pivoteo y agrupación: https://colab.research.google.com/drive/1JKaE2m3KxZ68nXCddd3AKmPv-627bTm4?usp=sharing
+DataSet: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
 Imagenes https://colab.research.google.com/drive/1CMXaloJFskZWLTK2aJISaXUJPB4IzsWz?usp=sharing
 
